@@ -4,16 +4,15 @@
 
 ### Español 🇪🇸
 
-Soy Leonardo Lescano, tengo 41 años y vivo actualmente en Joinville, SC, Brasil. Me formé como técnico en programación en la escuela secundaria en el año 2000. Aunque la vida me llevó por otros caminos no relacionados con la tecnología, desde finales de 2022 he vuelto a estudiar programación. Hasta ahora, he aprendido JS, React, NodeJs, Java, Spring Boot, bases de datos, Git y GitHub. Pero sé que en este camino siempre estaré aprendiendo nuevas tecnologías.
+Desarrollador Back-End Full-Stack en transición de carrera, con dominio en JavaScript, TypeScript, Node.js, Java, Spring Boot, Python y Django. Conocimiento en bases de datos relacionales (PostgreSQL) y no relacionales (MongoDB), Docker y AWS. Experiencia en gestión financiera y de proyectos, enfocado en resultados y habilidades en resolución de problemas, análisis y comunicación. Actualmente busco una oportunidad para aplicar mis conocimientos en desarrollo y contribuir al éxito de un equipo tecnológico.
 
 ### Português 🇧🇷
 
-Sou Leonardo Lescano, tenho 41 anos e atualmente moro em Joinville, SC, Brasil. Formei-me como técnico em programação no ensino médio no ano de 2000. Embora a vida tenha me levado por outros caminhos não relacionados à tecnologia, desde o final de 2022 voltei a estudar programação. Até agora, aprendi JS, React, NodeJs, Java, Spring Boot, bancos de dados, Git e GitHub. Mas sei que nessa jornada estarei sempre aprendendo novas tecnologias.
+Desenvolvedor Back-End Full-Stack em transição de carreira, com domínio em JavaScript, TypeScript, Node.js, Java, Spring Boot, Python e Django. Conhecimento em bancos de dados relacionais (PostgreSQL) e não relacionais (MongoDB), Docker e AWS. Background em gestão financeira e de projetos, com foco em resultados e habilidades em resolução de problemas, análise e comunicação. Atualmente, busco uma oportunidade para aplicar meus conhecimentos em desenvolvimento e contribuir para o sucesso de uma equipe de tecnologia.
 
 ### English 🇺🇸
 
-I'm Leonardo Lescano, I'm 41 years old, and I currently live in Joinville, SC, Brazil. I trained as a programming technician in high school in the year 2000. Although life took me on other paths not related to technology, since late 2022 I have returned to studying programming. So far, I've learned JS, React, NodeJs, Java, Spring Boot, databases, Git, and GitHub. But I know that on this journey, I will always be learning new technologies.
-
+Full-Stack Back-End Developer in career transition, proficient in JavaScript, TypeScript, Node.js, Java, Spring Boot, Python, and Django. Knowledge of relational (PostgreSQL) and non-relational (MongoDB) databases, Docker, and AWS. Background in financial and project management, with a focus on results and skills in problem-solving, analysis, and communication. Currently seeking an opportunity to apply my development knowledge and contribute to the success of a tech team.
 ## Habilidades 💻
 
 - **JavaScript**
